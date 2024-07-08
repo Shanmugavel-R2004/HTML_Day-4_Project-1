@@ -1,0 +1,62 @@
+#side{
+    align-content: center;
+}
+#header{
+    background-color: bisque;
+}
+
+#flex-container{
+    display: flex;
+}
+#side{
+    flex: 50%;
+    background-color:#1f89ac;
+    color:white
+}
+#main{
+    flex:50%;
+    background-color:#fcc223 ;
+}
+#container{
+    border: 2px solid white;
+    background-color:#dd303f;
+
+}
+#id1{
+    width: 400px;
+    height:30px;
+}
+#id2{
+    width: 400px;
+    height:30px;
+}
+#id3{
+    width: 400px;
+    height:30px;
+}
+#id4{
+    width: 400px;
+    height:30px;
+}
+#id5{
+    width: 400px;
+    height:30px;
+    background-color: aqua;
+}
+#id6{
+    width: 200px;
+    height:30px;
+}
+#flex-container{
+    display: flex;
+}
+#mobile_number{
+    flex: 50%;
+}
+#birth_date{
+    flex: 50%;
+}
+#footer{
+    background-color: black;
+    color: aliceblue;
+}
